@@ -1,0 +1,26 @@
+# From a Coq textbook, which helpfully comes with a chapter dependency graph
+# https://softwarefoundations.cis.upenn.edu/current/lf-current/deps.html
+
+Preface() : Preface
+Basics(Preface) : Functional\Programming\in Coq
+Induction(Basics) : Proof by\Induction
+Lists(Induction) : Working with\Structured\Data
+Poly(Lists) : Polymorphism\and\Higher-Order\Functions
+Tactics(Poly) : More Basic\Tactics
+Logic(Tactics) : Logic in Coq
+IndProp(Logic) : Inductively Defined Propositions
+
+Maps(IndProp) : Total and\Partial Maps
+Imp(Maps) : Simple Imperative Programs
+Auto(Imp) : More\Automation
+Postscript(Auto) : Postscript
+Bib(Postscript) : Bibliography
+
+ImpParser(Imp) : Lexing and\Parsing\in Coq
+Extraction(ImpParser) : Extracting\ML from Coq
+ImpCEvalFun(Imp) : An Evaluation\Function\for Imp
+
+ProofObjects(IndProp) : The\Curry-Howard\Correspondence
+IndPrinciples(ProofObjects) : More on\Induction
+
+Rel(IndProp) : Properties of\Relations

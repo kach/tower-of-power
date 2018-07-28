@@ -1,0 +1,42 @@
+<svg viewBox="7 -155 1117 210" xmlns="http://www.w3.org/2000/svg">
+        <style>
+        rect {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.red {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.yellow {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        rect.green {
+            stroke: hsl(120, 100%, 80%);
+            fill: hsl(120, 100%, 90%);
+        }
+        rect.blue {
+            stroke: hsl(180, 100%, 80%);
+            fill: hsl(180, 100%, 90%);
+        }
+        rect.purple {
+            stroke: hsl(240, 100%, 80%);
+            fill: hsl(240, 100%, 90%);
+        }
+        rect.pink {
+            stroke: hsl(300, 100%, 80%);
+            fill: hsl(300, 100%, 90%);
+        }
+
+        rect.base {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        text {
+            font-family: Garamond, sans-serif;
+            font-size: 14pt;
+        }
+        
+        </style>
+          <rect fill="white" stroke="gray" x="658" y="-100" width="132" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="19" y="-100" width="296" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="498" y="-100" width="135" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="17" y="-50" width="134" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="12" y="0" width="1107" height="49" rx="4" ry="4" class="base"></rect>  <rect fill="white" stroke="gray" x="970" y="-50" width="144" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="172" y="-150" width="783" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="176" y="-50" width="143" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="810" y="-100" width="305" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="819" y="-50" width="138" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="332" y="-100" width="138" height="99" rx="4" ry="4" class="box-generic"></rect>  <text x="662" y="-100" width="100" class="box-generic"><tspan x="662" dy="20">semver</tspan></text>  <text x="23" y="-100" width="100" class="box-generic"><tspan x="23" dy="20">randexp</tspan></text>  <text x="502" y="-100" width="100" class="box-generic"><tspan x="502" dy="20">railroad</tspan><tspan x="502" dy="20">_diagrams</tspan></text>  <text x="21" y="-50" width="100" class="box-generic"><tspan x="21" dy="20">ret</tspan></text>  <text x="16" y="0" width="100" class="base"><tspan x="16" dy="20"></tspan></text>  <text x="974" y="-50" width="100" class="box-generic"><tspan x="974" dy="20">colors</tspan></text>  <text x="176" y="-150" width="100" class="box-generic"><tspan x="176" dy="20">nearley</tspan></text>  <text x="180" y="-50" width="100" class="box-generic"><tspan x="180" dy="20">discontinuous</tspan><tspan x="180" dy="20">_range</tspan></text>  <text x="814" y="-100" width="100" class="box-generic"><tspan x="814" dy="20">nomnom</tspan></text>  <text x="823" y="-50" width="100" class="box-generic"><tspan x="823" dy="20">underscore</tspan></text>  <text x="336" y="-100" width="100" class="box-generic"><tspan x="336" dy="20">moo</tspan></text></svg>

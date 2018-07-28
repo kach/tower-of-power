@@ -1,0 +1,42 @@
+<svg viewBox="8 -805 796 860" xmlns="http://www.w3.org/2000/svg">
+        <style>
+        rect {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.red {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.yellow {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        rect.green {
+            stroke: hsl(120, 100%, 80%);
+            fill: hsl(120, 100%, 90%);
+        }
+        rect.blue {
+            stroke: hsl(180, 100%, 80%);
+            fill: hsl(180, 100%, 90%);
+        }
+        rect.purple {
+            stroke: hsl(240, 100%, 80%);
+            fill: hsl(240, 100%, 90%);
+        }
+        rect.pink {
+            stroke: hsl(300, 100%, 80%);
+            fill: hsl(300, 100%, 90%);
+        }
+
+        rect.base {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        text {
+            font-family: Garamond, sans-serif;
+            font-size: 14pt;
+        }
+        
+        </style>
+          <rect fill="white" stroke="gray" x="493" y="-750" width="145" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="13" y="-150" width="139" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="13" y="-450" width="143" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="655" y="-750" width="140" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="331" y="-600" width="146" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="657" y="-700" width="138" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="18" y="-500" width="141" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="657" y="-800" width="142" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="17" y="-650" width="133" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="19" y="-400" width="132" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="13" y="-700" width="142" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="14" y="0" width="143" height="49" rx="4" ry="4" class="base"></rect>  <rect fill="white" stroke="gray" x="16" y="-550" width="462" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="19" y="-300" width="131" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="179" y="-600" width="134" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="13" y="-50" width="145" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="498" y="-800" width="132" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="333" y="-650" width="460" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="14" y="-200" width="142" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="336" y="-750" width="136" height="99" rx="4" ry="4" class="box-generic"></rect>  <text x="497" y="-750" width="100" class="box-generic"><tspan x="497" dy="20">Lexing and</tspan><tspan x="497" dy="20">Parsing</tspan><tspan x="497" dy="20">in Coq</tspan></text>  <text x="17" y="-150" width="100" class="box-generic"><tspan x="17" dy="20">Functional</tspan><tspan x="17" dy="20">Programming</tspan><tspan x="17" dy="20">in Coq</tspan></text>  <text x="17" y="-450" width="100" class="box-generic"><tspan x="17" dy="20">More Basic</tspan><tspan x="17" dy="20">Tactics</tspan></text>  <text x="659" y="-750" width="100" class="box-generic"><tspan x="659" dy="20">Postscript</tspan></text>  <text x="335" y="-600" width="100" class="box-generic"><tspan x="335" dy="20">Total and</tspan><tspan x="335" dy="20">Partial Maps</tspan></text>  <text x="661" y="-700" width="100" class="box-generic"><tspan x="661" dy="20">More</tspan><tspan x="661" dy="20">Automation</tspan></text>  <text x="22" y="-500" width="100" class="box-generic"><tspan x="22" dy="20">Logic in Coq</tspan></text>  <text x="661" y="-800" width="100" class="box-generic"><tspan x="661" dy="20">Bibliography</tspan></text>  <text x="21" y="-650" width="100" class="box-generic"><tspan x="21" dy="20">The</tspan><tspan x="21" dy="20">Curry-Howard</tspan><tspan x="21" dy="20">Correspondence</tspan></text>  <text x="23" y="-400" width="100" class="box-generic"><tspan x="23" dy="20">Polymorphism</tspan><tspan x="23" dy="20">and</tspan><tspan x="23" dy="20">Higher-Order</tspan><tspan x="23" dy="20">Functions</tspan></text>  <text x="17" y="-700" width="100" class="box-generic"><tspan x="17" dy="20">More on</tspan><tspan x="17" dy="20">Induction</tspan></text>  <text x="18" y="0" width="100" class="base"><tspan x="18" dy="20"></tspan></text>  <text x="20" y="-550" width="100" class="box-generic"><tspan x="20" dy="20">Inductively Defined Propositions</tspan></text>  <text x="23" y="-300" width="100" class="box-generic"><tspan x="23" dy="20">Working with</tspan><tspan x="23" dy="20">Structured</tspan><tspan x="23" dy="20">Data</tspan></text>  <text x="183" y="-600" width="100" class="box-generic"><tspan x="183" dy="20">Properties of</tspan><tspan x="183" dy="20">Relations</tspan></text>  <text x="17" y="-50" width="100" class="box-generic"><tspan x="17" dy="20">Preface</tspan></text>  <text x="502" y="-800" width="100" class="box-generic"><tspan x="502" dy="20">Extracting</tspan><tspan x="502" dy="20">ML from Coq</tspan></text>  <text x="337" y="-650" width="100" class="box-generic"><tspan x="337" dy="20">Simple Imperative Programs</tspan></text>  <text x="18" y="-200" width="100" class="box-generic"><tspan x="18" dy="20">Proof by</tspan><tspan x="18" dy="20">Induction</tspan></text>  <text x="340" y="-750" width="100" class="box-generic"><tspan x="340" dy="20">An Evaluation</tspan><tspan x="340" dy="20">Function</tspan><tspan x="340" dy="20">for Imp</tspan></text></svg>

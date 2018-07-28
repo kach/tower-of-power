@@ -1,0 +1,17 @@
+# dependency graph for pdf-redact-tools, scraped from homebrew
+exiftool(): exiftool
+libpng(): libpng
+freetype(libpng): freetype
+gdbm(): gdbm
+jpeg(): jpeg
+libtiff(jpeg): libtiff
+little-cms2(jpeg, libtiff): little-cms2
+ghostscript(jpeg, libtiff, little-cms2): ghostscript
+libtool(): libtool
+xz(): xz
+imagemagick(freetype, jpeg, libpng, libtiff, libtool, xz): imagemagick
+openssl(): openssl
+readline(): readline
+sqlite(readline): sqlite
+python2(gdbm, openssl, readline, sqlite): python@2
+pdf-redact-tools(exiftool, freetype, gdbm, ghostscript, imagemagick, jpeg, libpng, libtiff, libtool, little-cms2, openssl, python2, readline, sqlite, xz): pdf-redact-tools

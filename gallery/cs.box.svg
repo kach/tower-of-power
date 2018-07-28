@@ -1,0 +1,42 @@
+<svg viewBox="7 -355 796 410" xmlns="http://www.w3.org/2000/svg">
+        <style>
+        rect {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.red {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.yellow {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        rect.green {
+            stroke: hsl(120, 100%, 80%);
+            fill: hsl(120, 100%, 90%);
+        }
+        rect.blue {
+            stroke: hsl(180, 100%, 80%);
+            fill: hsl(180, 100%, 90%);
+        }
+        rect.purple {
+            stroke: hsl(240, 100%, 80%);
+            fill: hsl(240, 100%, 90%);
+        }
+        rect.pink {
+            stroke: hsl(300, 100%, 80%);
+            fill: hsl(300, 100%, 90%);
+        }
+
+        rect.base {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        text {
+            font-family: Garamond, sans-serif;
+            font-size: 14pt;
+        }
+        
+        </style>
+          <rect fill="white" stroke="gray" x="651" y="-350" width="147" height="49" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="173" y="-100" width="138" height="49" rx="4" ry="4" class="pink"></rect>  <rect fill="white" stroke="gray" x="175" y="-350" width="457" height="49" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="15" y="-200" width="140" height="199" rx="4" ry="4" class="red"></rect>  <rect fill="white" stroke="gray" x="177" y="-200" width="300" height="49" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="330" y="-250" width="145" height="49" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="19" y="0" width="296" height="49" rx="4" ry="4" class="base"></rect>  <rect fill="white" stroke="gray" x="176" y="-50" width="302" height="49" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="492" y="-300" width="300" height="149" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="334" y="-150" width="301" height="99" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="17" y="-300" width="293" height="99" rx="4" ry="4" class="purple"></rect>  <rect fill="white" stroke="gray" x="12" y="-350" width="147" height="49" rx="4" ry="4" class="purple"></rect>  <text x="655" y="-350" width="100" class="purple"><tspan x="655" dy="20">CS 110</tspan></text>  <text x="177" y="-100" width="100" class="pink"><tspan x="177" dy="20">Engr 40M</tspan></text>  <text x="179" y="-350" width="100" class="purple"><tspan x="179" dy="20">CS 221</tspan></text>  <text x="19" y="-200" width="100" class="red"><tspan x="19" dy="20">Math 51</tspan></text>  <text x="181" y="-200" width="100" class="purple"><tspan x="181" dy="20">CS 103</tspan></text>  <text x="334" y="-250" width="100" class="purple"><tspan x="334" dy="20">CS 154</tspan></text>  <text x="23" y="0" width="100" class="base"><tspan x="23" dy="20"></tspan></text>  <text x="180" y="-50" width="100" class="purple"><tspan x="180" dy="20">CS 106A</tspan></text>  <text x="496" y="-300" width="100" class="purple"><tspan x="496" dy="20">CS 107/E</tspan></text>  <text x="338" y="-150" width="100" class="purple"><tspan x="338" dy="20">CS 106B/X</tspan></text>  <text x="21" y="-300" width="100" class="purple"><tspan x="21" dy="20">CS 109</tspan></text>  <text x="16" y="-350" width="100" class="purple"><tspan x="16" dy="20">CS 161</tspan></text></svg>

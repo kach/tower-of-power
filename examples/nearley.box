@@ -1,0 +1,11 @@
+# dependency graph for nearley, scraped from npm
+railroad_diagrams() : railroad\_diagrams
+ret() : ret
+discontinuous_range() : discontinuous\_range
+randexp(ret, discontinuous_range) : randexp
+colors() : colors
+underscore() : underscore
+moo() : moo
+semver() : semver
+nomnom(colors, underscore) : nomnom
+nearley(moo, nomnom, railroad_diagrams, randexp, semver) : nearley

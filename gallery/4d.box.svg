@@ -1,0 +1,42 @@
+<svg viewBox="6 -555 635 610" xmlns="http://www.w3.org/2000/svg">
+        <style>
+        rect {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.red {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.yellow {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        rect.green {
+            stroke: hsl(120, 100%, 80%);
+            fill: hsl(120, 100%, 90%);
+        }
+        rect.blue {
+            stroke: hsl(180, 100%, 80%);
+            fill: hsl(180, 100%, 90%);
+        }
+        rect.purple {
+            stroke: hsl(240, 100%, 80%);
+            fill: hsl(240, 100%, 90%);
+        }
+        rect.pink {
+            stroke: hsl(300, 100%, 80%);
+            fill: hsl(300, 100%, 90%);
+        }
+
+        rect.base {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        text {
+            font-family: Garamond, sans-serif;
+            font-size: 14pt;
+        }
+        
+        </style>
+          <rect fill="white" stroke="gray" x="15" y="-250" width="142" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="173" y="-300" width="458" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="15" y="-400" width="142" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="16" y="-350" width="140" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="172" y="-400" width="140" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="173" y="-350" width="137" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="18" y="-500" width="136" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="11" y="-450" width="300" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="19" y="-550" width="132" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="170" y="-50" width="148" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="16" y="0" width="462" height="49" rx="4" ry="4" class="base"></rect>  <rect fill="white" stroke="gray" x="177" y="-100" width="300" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="338" y="-50" width="297" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="334" y="-200" width="302" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="497" y="-100" width="135" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="13" y="-150" width="301" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="499" y="-250" width="134" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="174" y="-250" width="303" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="177" y="-200" width="139" height="49" rx="4" ry="4" class="box-generic"></rect>  <text x="19" y="-250" width="100" class="box-generic"><tspan x="19" dy="20">11. The</tspan><tspan x="19" dy="20">Algorithm</tspan><tspan x="19" dy="20">Method</tspan></text>  <text x="177" y="-300" width="100" class="box-generic"><tspan x="177" dy="20">10. The Fourth Dimension</tspan></text>  <text x="19" y="-400" width="100" class="box-generic"><tspan x="19" dy="20">13. Number</tspan><tspan x="19" dy="20">Mash-Ups</tspan></text>  <text x="20" y="-350" width="100" class="box-generic"><tspan x="20" dy="20">12. How to</tspan><tspan x="20" dy="20">Build a</tspan><tspan x="20" dy="20">Computer</tspan></text>  <text x="176" y="-400" width="100" class="box-generic"><tspan x="176" dy="20">15. Higher</tspan><tspan x="176" dy="20">Dimensions</tspan></text>  <text x="177" y="-350" width="100" class="box-generic"><tspan x="177" dy="20">14. Ridiculous</tspan><tspan x="177" dy="20">Shapes</tspan></text>  <text x="22" y="-500" width="100" class="box-generic"><tspan x="22" dy="20">17. Ridiculous</tspan><tspan x="22" dy="20">Numbers</tspan></text>  <text x="15" y="-450" width="100" class="box-generic"><tspan x="15" dy="20">16. Good Data Die Hard</tspan></text>  <text x="23" y="-550" width="100" class="box-generic"><tspan x="23" dy="20">18. To Infinity</tspan><tspan x="23" dy="20">and Beyond</tspan></text>  <text x="174" y="-50" width="100" class="box-generic"><tspan x="174" dy="20">1. Can you</tspan><tspan x="174" dy="20">digit?</tspan></text>  <text x="20" y="0" width="100" class="base"><tspan x="20" dy="20"></tspan></text>  <text x="181" y="-100" width="100" class="box-generic"><tspan x="181" dy="20">3. Be There and Be Square</tspan></text>  <text x="342" y="-50" width="100" class="box-generic"><tspan x="342" dy="20">2. Making Shapes</tspan></text>  <text x="338" y="-200" width="100" class="box-generic"><tspan x="338" dy="20">5. Shapes: Now in 3D</tspan></text>  <text x="501" y="-100" width="100" class="box-generic"><tspan x="501" dy="20">4. Shape</tspan><tspan x="501" dy="20">Shifting</tspan></text>  <text x="17" y="-150" width="100" class="box-generic"><tspan x="17" dy="20">7. Prime Time</tspan></text>  <text x="503" y="-250" width="100" class="box-generic"><tspan x="503" dy="20">6. Pack it Up,</tspan><tspan x="503" dy="20">Pack it In</tspan></text>  <text x="178" y="-250" width="100" class="box-generic"><tspan x="178" dy="20">9. Just for Graphs</tspan></text>  <text x="181" y="-200" width="100" class="box-generic"><tspan x="181" dy="20">8. Knot a</tspan><tspan x="181" dy="20">Problem</tspan></text></svg>

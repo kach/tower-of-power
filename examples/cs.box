@@ -1,0 +1,15 @@
+MATH51().red : Math 51
+CS106A().purple : CS 106A
+CS106B(CS106A).purple : CS 106B/X
+
+ENGR40M(CS106A).pink : Engr 40M
+CS107(CS106B).purple : CS 107/E
+CS103(CS106B).purple : CS 103
+CS109(CS106B, MATH51, CS103).purple : CS 109
+
+CS161(CS103, CS109).purple : CS 161
+CS110(CS107).purple : CS 110
+
+CS221(CS109, CS107).purple : CS 221
+
+CS154(CS103).purple : CS 154

@@ -1,0 +1,42 @@
+<svg viewBox="7 -255 1437 310" xmlns="http://www.w3.org/2000/svg">
+        <style>
+        rect {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.red {
+            stroke: hsl(0, 100%, 80%);
+            fill: hsl(0, 100%, 90%);
+        }
+        rect.yellow {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        rect.green {
+            stroke: hsl(120, 100%, 80%);
+            fill: hsl(120, 100%, 90%);
+        }
+        rect.blue {
+            stroke: hsl(180, 100%, 80%);
+            fill: hsl(180, 100%, 90%);
+        }
+        rect.purple {
+            stroke: hsl(240, 100%, 80%);
+            fill: hsl(240, 100%, 90%);
+        }
+        rect.pink {
+            stroke: hsl(300, 100%, 80%);
+            fill: hsl(300, 100%, 90%);
+        }
+
+        rect.base {
+            stroke: hsl(60, 100%, 80%);
+            fill: hsl(60, 100%, 90%);
+        }
+        text {
+            font-family: Garamond, sans-serif;
+            font-size: 14pt;
+        }
+        
+        </style>
+          <rect fill="white" stroke="gray" x="1295" y="-100" width="144" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="653" y="-200" width="138" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="814" y="-200" width="625" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="654" y="-150" width="142" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="497" y="-200" width="142" height="199" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="654" y="-100" width="304" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="331" y="-100" width="140" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="814" y="-50" width="137" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="973" y="-100" width="141" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="19" y="0" width="1414" height="49" rx="4" ry="4" class="base"></rect>  <rect fill="white" stroke="gray" x="12" y="-100" width="138" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="1137" y="-100" width="133" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="339" y="-250" width="616" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="1297" y="-50" width="142" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="174" y="-100" width="140" height="99" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="13" y="-50" width="137" height="49" rx="4" ry="4" class="box-generic"></rect>  <rect fill="white" stroke="gray" x="19" y="-200" width="456" height="99" rx="4" ry="4" class="box-generic"></rect>  <text x="1299" y="-100" width="100" class="box-generic"><tspan x="1299" dy="20">freetype</tspan></text>  <text x="657" y="-200" width="100" class="box-generic"><tspan x="657" dy="20">ghostscript</tspan></text>  <text x="818" y="-200" width="100" class="box-generic"><tspan x="818" dy="20">imagemagick</tspan></text>  <text x="658" y="-150" width="100" class="box-generic"><tspan x="658" dy="20">little-cms2</tspan></text>  <text x="501" y="-200" width="100" class="box-generic"><tspan x="501" dy="20">exiftool</tspan></text>  <text x="658" y="-100" width="100" class="box-generic"><tspan x="658" dy="20">libtiff</tspan></text>  <text x="335" y="-100" width="100" class="box-generic"><tspan x="335" dy="20">openssl</tspan></text>  <text x="818" y="-50" width="100" class="box-generic"><tspan x="818" dy="20">jpeg</tspan></text>  <text x="977" y="-100" width="100" class="box-generic"><tspan x="977" dy="20">xz</tspan></text>  <text x="23" y="0" width="100" class="base"><tspan x="23" dy="20"></tspan></text>  <text x="16" y="-100" width="100" class="box-generic"><tspan x="16" dy="20">sqlite</tspan></text>  <text x="1141" y="-100" width="100" class="box-generic"><tspan x="1141" dy="20">libtool</tspan></text>  <text x="343" y="-250" width="100" class="box-generic"><tspan x="343" dy="20">pdf-redact-tools</tspan></text>  <text x="1301" y="-50" width="100" class="box-generic"><tspan x="1301" dy="20">libpng</tspan></text>  <text x="178" y="-100" width="100" class="box-generic"><tspan x="178" dy="20">gdbm</tspan></text>  <text x="17" y="-50" width="100" class="box-generic"><tspan x="17" dy="20">readline</tspan></text>  <text x="23" y="-200" width="100" class="box-generic"><tspan x="23" dy="20">python@2</tspan></text></svg>
