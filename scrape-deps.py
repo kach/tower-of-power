@@ -20,7 +20,7 @@ def walk(p, get_deps):
     seen.add(p)
     deps = get_deps(p)
     for dep in deps:
-        walk(dep)
+        walk(dep, get_deps)
     print p + '(' + (', '.join(deps)) + ')' + ': ' + p
 
 #walk('pdf-redact-tools')
