@@ -1,3 +1,6 @@
+# "If I have seen further it is by standing on the shoulders of Giants."
+#   -- Newton
+
 from bs4 import BeautifulSoup
 import requests, re
 
@@ -21,4 +24,4 @@ def get(sid, depth=5):
     print u'(' + (u', '.join(advisors)), u') :',
     print name
 
-get('61129', 15) # mitch resnick (as an example)
+get('61129', 15) # mitch resnick, as an example
